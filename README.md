@@ -1,8 +1,9 @@
 # DERG_PREM: Interrogating PREM
 
 This repo contains Jupyter notebooks to interrogate PREM as part of
-the University of Leeds's Deep Earth Research Group meetings.  It uses
-[Julia](https://julialang.org) code to do this.
+the University of Leeds's
+[Deep Earth Research Group](https://environment.leeds.ac.uk/institute-geophysics-tectonics/doc/deep-earth)
+meetings.  It uses [Julia](https://julialang.org) code to do this.
 
 ## Installation instructions
 
